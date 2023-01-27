@@ -1,14 +1,1 @@
-<<<<<<< Updated upstream
-hsdhsjshj
-wdjwdjw
-
-
-
-
-committ
-=======
-hsdhsjs
-
-
-
->>>>>>> Stashed changes
+e/bayesian
