@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 hsdhsjshj
 wdjwdjw
 
@@ -5,3 +6,9 @@ wdjwdjw
 
 
 committ
+=======
+hsdhsjs
+
+
+
+>>>>>>> Stashed changes
